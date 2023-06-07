@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Pop culture recipes!</title>
+        <title>culture recipes!</title>
     </head>
     <body>
         <h1 id='header'>Recipes from pop culture!</h1>
